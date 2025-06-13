@@ -2,4 +2,4 @@
 
 Autor:Guilherme Coutinho BIlhalba
 
-implementação de uma agenda utilizando apenas um buffer de mémoria
+implementação de uma agenda utilizando apenas um buffer de memória
